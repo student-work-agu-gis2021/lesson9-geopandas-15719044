@@ -65,7 +65,7 @@ print(len(geo))
 # **Finally:**
 # - plot the polygon. Note: you might need to call `matplotlib pyplot show()` -method in order to display the map
 
-# Plot the polygon. What shape is it :) ?
+# Plot the polygon. What shape is it :) ? 
 # YOUR CODE HERE 4
 geo.plot()
 plt.show()

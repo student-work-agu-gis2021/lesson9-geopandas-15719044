@@ -90,7 +90,7 @@ print(movements["geometry"].head())
 ```
 
 **Finally:**
-- Check once more the crs definition of your dataframe (should be epsg:32735, define the correct crs if this information is missing)
+- Check once more the crs definition of your dataframe (should be epsg:32735, define the correct crs if this information is missing)  
 - Calculate the lenghts of the lines into a new column called ``distance`` in ``movements`` GeoDataFrame.
 
 

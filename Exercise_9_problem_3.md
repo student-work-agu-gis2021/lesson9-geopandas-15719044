@@ -114,7 +114,7 @@ You should now be able to print answers to the following questions:
 
 
 ```python
-# YOUR CODE HERE 6 to find max, min,mean of the distance.
+# YOUR CODE HERE 6 to find max, min,mean of the distance. 
 ```
 
 - Finally, save the movements of into a Shapefile called ``some_movements.shp``
